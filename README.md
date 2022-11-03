@@ -1,4 +1,4 @@
-# API-Testing-with-Postman-
+# API-Testing-with-Postman
 
 It contains a selection of test cases based on the CRUD commands.
 
